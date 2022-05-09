@@ -110,11 +110,13 @@ button {
   border-radius: 8px;
   padding: 50px 70px;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
-  gap: 350px;
 }
 
+.ptags {
+  width: 600px;
+}
 .ptags p:first-of-type {
   font-size: 32px;
   font-style: bold;
