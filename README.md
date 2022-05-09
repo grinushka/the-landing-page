@@ -8,8 +8,6 @@ Hope you find it amusing! :dog:
 
 ![App Screenshot](/landing-page-1.png)
 
-<br>
-
 ![App Screenshot](/landing-page-2.png)
 
 <h2> Technologies Used </h2>
