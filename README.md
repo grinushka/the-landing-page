@@ -1,12 +1,15 @@
 <h1> The Landing Page </h1>
 
-This is a landing page devoted to a man's best friends - dogs. It is based on the assigment given in [The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard) curriculum.
-Don't be to hard on it! I deliberately left it this way (meaning simple CSS and HTML) because it was one of my first projects, so I wanna see in the future where started.
+This is a landing page devoted to man's best friends - dogs. It is based on the assigment given in [The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard) curriculum.
+Don't be to hard on it! I deliberately left it this way (meaning simple CSS and HTML) because it was one of my first projects, so I wanna see in the future where I started.
 Hope you find it amusing! :dog:
 
 <h2> Screenshots </h2>
 
 ![App Screenshot](/landing-page-1.png)
+
+<br>
+
 ![App Screenshot](/landing-page-2.png)
 
 <h2> Technologies Used </h2>
